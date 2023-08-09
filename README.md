@@ -1,2 +1,2 @@
 # C_exercises
-Exercises from C classes
+Exercises from my C classes.

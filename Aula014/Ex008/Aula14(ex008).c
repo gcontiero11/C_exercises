@@ -22,7 +22,7 @@ int main(){
 	pessoas[1].idade = 20;
 	strcpy(pessoas[2].nome,"Otavio");
 	pessoas[2].idade = 21;
-	strcpy(pessoas[3].nome,"Vinícius");
+	strcpy(pessoas[3].nome,"VinÃ­cius");
 	pessoas[3].idade = 22;
 	strcpy(pessoas[4].nome,"Alessandro");
 	pessoas[4].idade = 18;
@@ -37,7 +37,7 @@ int main(){
 	strcpy(pessoas[9].nome,"Joseli");
 	pessoas[9].idade = 62;
 	
-//  Perguntando ao usuário
+//  Perguntando ao usuÃ¡rio
 	printf("Digite uma idade\n");
 	printf("-----> ");
 	scanf("%d%*c",&buscaIdade);
